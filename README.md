@@ -8,11 +8,12 @@ Two powerful models, XGBoost and LightGBM, were used in this project to improve 
 ## Dataset
 The dataset used for this project contains various features about houses, such as:
 
-Number of bedrooms
-Square footage
-Location
-Year built
-Additional amenities (e.g., garage, pool)
+- Number of bedrooms
+- Square footage
+- Location
+- Year built
+- Additional amenities (e.g., garage, pool)
+  
 The data was preprocessed by handling missing values, performing feature scaling, and encoding categorical features.
 
 ## Key Features
